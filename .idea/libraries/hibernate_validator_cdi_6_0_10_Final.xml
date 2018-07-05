@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="hibernate-validator-cdi-6.0.10.Final">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/hibernate-validator-cdi-6.0.10.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
