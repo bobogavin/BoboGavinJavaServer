@@ -1,0 +1,7 @@
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\bin\Debug\Test.exe.config
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\bin\Debug\Test.exe
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\bin\Debug\Test.pdb
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\obj\Debug\Test.exe
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\obj\Debug\Test.pdb
+D:\BoboGavinCodes\ProgramTools\BoboGavin\BoboGavinJavaServer\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
